@@ -1,0 +1,14 @@
+{
+  "watson_conversation_apikey": "4hkfLDFdi02cJwLAJfW-bq4-XNyuDF3XrgBIzObaG_25",
+  "watson_conversation_iam_apikey_description": "Auto-generated for key 5b771bc2-e88c-4201-b072-618532ce8f06",
+  "watson_conversation_iam_apikey_name": "b744f7f9-0cf9-44fb-8b08-5ffcbd77e152",
+  "watson_conversation_iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Writer",
+  "watson_conversation_iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/68c615bfc0cd4b1dad1a60aa5e24cd3b::serviceid:ServiceId-bf1333ed-5683-42f7-9594-598035cce0b4",
+  "watson_conversation_url": "https://api.us-south.assistant.watson.cloud.ibm.com/instances/89792a06-b229-47e5-b905-689fa9c8fd20",
+  "watson_natural_language_classifier_apikey": "G8OKP1i-Ws-MIv0oTupRY6bqoUOH7Tp2MrkmATJrW47s",
+  "watson_natural_language_classifier_iam_apikey_description": "Auto-generated for key b1fa01e6-26fa-4963-82f6-6eaeec03230d",
+  "watson_natural_language_classifier_iam_apikey_name": "b744f7f9-0cf9-44fb-8b08-5ffcbd77e152",
+  "watson_natural_language_classifier_iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Writer",
+  "watson_natural_language_classifier_iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/68c615bfc0cd4b1dad1a60aa5e24cd3b::serviceid:ServiceId-f8191925-29f9-4b81-9105-19c1745979b8",
+  "watson_natural_language_classifier_url": "https://api.us-east.natural-language-classifier.watson.cloud.ibm.com/instances/e29a0c21-155c-481b-a141-64c5bf012eed"
+}
